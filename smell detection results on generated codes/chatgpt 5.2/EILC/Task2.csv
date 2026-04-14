@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,isFormatSupported,NativeImageValidator,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task2/NativeImageValidator.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,isHeaderValid,NativeImageValidator,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task2/NativeImageValidator.java

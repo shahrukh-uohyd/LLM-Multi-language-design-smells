@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"hardwareinfo",loadNativeLibrary,HardwareInfoReader,com.example.hardware,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NSL/Task2/src/main/java/com/example/hardware/HardwareInfoReader.java,HardwareInfoReader.java

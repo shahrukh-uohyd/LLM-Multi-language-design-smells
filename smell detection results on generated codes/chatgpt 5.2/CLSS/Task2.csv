@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"DataContainer",Java_NativeFactory_createDataContainer,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/CLSS/Task2/NativeFactory.cpp,NativeFactory.cpp
+CS2,Shotgu,"(D)V",Java_NativeFactory_createDataContainer,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/CLSS/Task2/NativeFactory.cpp,NativeFactory.cpp

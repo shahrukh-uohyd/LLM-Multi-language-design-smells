@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"com/example/OperationService",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp
+CS2,Shotgu,"(Ljava/lang/String;)Z",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp
+CS3,Shotgu,"()V",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp
+CS4,Shotgu,"(Ljava/lang/String;[D)Ljava/lang/String;",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp
+CS5,Shotgu,"(Ljava/lang/String;I)V",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp
+CS6,Shotgu,"(Ljava/lang/String;)V",callJavaOperations,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task3/cpp/nativeinvoker.cpp,nativeinvoker.cpp

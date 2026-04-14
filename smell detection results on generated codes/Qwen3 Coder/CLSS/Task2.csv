@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"(F)V",Java_NativeObjectCreator_createDataContainer,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task2/objectcreator.cpp,objectcreator.cpp
+CS2,Shotgu,"DataContainer",Java_NativeObjectCreator_createDataContainer,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task2/objectcreator.cpp,objectcreator.cpp

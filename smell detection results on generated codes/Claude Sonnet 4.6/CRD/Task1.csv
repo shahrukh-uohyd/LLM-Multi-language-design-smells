@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,openFile,FileSystemManager,com.app.filesystem,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CRD/Task1/FileSystemManager.java,FileSystemManager.java
+CS2,crossLangDe,,encrypt,CryptoProcessor,com.app.crypto,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CRD/Task1/CryptoProcessor.java,CryptoProcessor.java

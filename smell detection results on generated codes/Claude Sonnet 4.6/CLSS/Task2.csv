@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"(F)V",resolveDataContainerMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task2/NativeObjectFactory.cpp,NativeObjectFactory.cpp
+CS2,Shotgu,"com/example/jni/DataContainer",resolveDataContainerMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task2/NativeObjectFactory.cpp,NativeObjectFactory.cpp

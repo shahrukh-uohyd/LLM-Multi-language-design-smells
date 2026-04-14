@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,nativeReadGpuTemperature,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,nativeReadFan1Speed,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,nativeReadFan2Speed,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,nativeReadBatteryVoltage,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,nativeReadMoboTemperature,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,nativeReadCpuTemperature,SystemProbe,com.example.hwmonitor,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EILC/Task3/SystemProbe.java

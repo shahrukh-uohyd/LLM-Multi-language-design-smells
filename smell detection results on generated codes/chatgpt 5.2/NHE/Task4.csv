@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"counter",Java_Sample_nativeInspectAndInvoke,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task4/SampleNative.cpp,SampleNative.cpp
+CS2,NotHandlingExceptions,"updateCounter",Java_Sample_nativeInspectAndInvoke,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task4/SampleNative.cpp,SampleNative.cpp

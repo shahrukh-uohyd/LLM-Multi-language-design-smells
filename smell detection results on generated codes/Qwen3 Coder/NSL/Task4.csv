@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,tempFile.getAbsolutePath(),loadLibraryFromResources,AudioCodecService,com.example.codec,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NSL/Task4/src/main/java/com/example/codec/AudioCodecService.java,AudioCodecService.java
+CS2,NotSecuringLibraries,"audio-codec-v2",loadNativeLibrary,AudioCodecService,com.example.codec,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NSL/Task4/src/main/java/com/example/codec/AudioCodecService.java,AudioCodecService.java

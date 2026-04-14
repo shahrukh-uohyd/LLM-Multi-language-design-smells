@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"(Ljava/lang/String;I)Ljava/lang/String;",resolveControllableMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task4/NativeModuleBridge.cpp,NativeModuleBridge.cpp
+CS2,Shotgu,"com/example/app/ComponentRegistry",resolveRegistryMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task4/NativeModuleBridge.cpp,NativeModuleBridge.cpp
+CS3,Shotgu,"com/example/app/AppLifecycleManager",resolveLifecycleMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task4/NativeModuleBridge.cpp,NativeModuleBridge.cpp
+CS4,Shotgu,"com/example/app/NativeControllable",resolveControllableMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task4/NativeModuleBridge.cpp,NativeModuleBridge.cpp

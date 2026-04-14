@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"subtract",Java_NativeDispatcher_invokeOperation,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task2/NativeDispatcher.c,NativeDispatcher.c
+CS2,NotHandlingExceptions,"add",Java_NativeDispatcher_invokeOperation,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task2/NativeDispatcher.c,NativeDispatcher.c
+CS3,NotHandlingExceptions,"multiply",Java_NativeDispatcher_invokeOperation,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task2/NativeDispatcher.c,NativeDispatcher.c

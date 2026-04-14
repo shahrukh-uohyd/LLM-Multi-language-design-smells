@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"()I",resolvePluginResultMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS2,Shotgu,"(I)V",buildHashMap,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS3,Shotgu,"(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;",buildHashMap,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS4,Shotgu,"(Ljava/lang/String;Ljava/util/Map;I)V",resolvePluginContextMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS5,Shotgu,"()Ljava/lang/String;",resolvePluginResultMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS6,Shotgu,"com/example/plugins/IPlugin",resolveIPluginMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS7,Shotgu,"com/example/plugins/PluginContext",resolvePluginContextMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS8,Shotgu,"com/example/plugins/PluginResult",resolvePluginResultMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS9,Shotgu,"com/example/plugins/PluginRegistry",resolveRegistryMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS10,Shotgu,"(Lcom/example/plugins/PluginContext;)""Lcom/example/plugins/PluginResult;",resolveIPluginMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp
+CS11,Shotgu,"com/example/plugins/PluginEventBus",resolveEventBusMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task5/NativePluginBridge.cpp,NativePluginBridge.cpp

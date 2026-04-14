@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,methodNameStr,Java_MethodInvocation_invokeMethod,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task2/methodinvocation.c,methodinvocation.c
+CS2,NotHandlingExceptions,methodNameStr,Java_MethodInvocation_invokeStaticMethod,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task2/methodinvocation.c,methodinvocation.c

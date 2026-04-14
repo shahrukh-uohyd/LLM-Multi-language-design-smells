@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,PressureSensor,com.hardware.sensors,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task1/PressureSensor.java
+AP2,TooMuchScatteringDetectio,,,SensorBase,com.hardware.sensors,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task1/SensorBase.java
+AP3,TooMuchScatteringDetectio,,,HumiditySensor,com.hardware.sensors,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task1/HumiditySensor.java
+AP4,TooMuchScatteringDetectio,,,TemperatureSensor,com.hardware.sensors,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task1/TemperatureSensor.java

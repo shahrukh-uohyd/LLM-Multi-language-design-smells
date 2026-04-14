@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"bio",Java_com_example_security_ProfileSanitizerNative_sanitizeProfileNative,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NCOE/Task2/profile_sanitizer.c,profile_sanitizer.c

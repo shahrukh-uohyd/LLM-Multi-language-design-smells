@@ -1,0 +1,17 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"getName",Java_ObjectInspector_inspectFields,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS2,NotHandlingExceptions,"getName",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS3,NotHandlingExceptions,"getSuperclass",Java_ObjectInspector_inspectClass,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS4,NotHandlingExceptions,"setAccessible",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS5,NotHandlingExceptions,"getDeclaredFields",Java_ObjectInspector_inspectFields,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS6,NotHandlingExceptions,"getDeclaredFields",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS7,NotHandlingExceptions,"getName",Java_ObjectInspector_inspectClass,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS8,NotHandlingExceptions,"java/lang/reflect/Field",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS9,NotHandlingExceptions,"get",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS10,NotHandlingExceptions,"java/lang/Class",Java_ObjectInspector_inspectFields,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS11,NotHandlingExceptions,"java/lang/Class",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS12,NotHandlingExceptions,"getType",Java_ObjectInspector_inspectFields,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS13,NotHandlingExceptions,"getType",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS14,NotHandlingExceptions,"java/lang/reflect/Field",Java_ObjectInspector_inspectFields,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS15,NotHandlingExceptions,"toString",Java_ObjectInspector_getObjectDetails,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c
+CS16,NotHandlingExceptions,"java/lang/Class",Java_ObjectInspector_inspectClass,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task3/objectinspector.c,objectinspector.c

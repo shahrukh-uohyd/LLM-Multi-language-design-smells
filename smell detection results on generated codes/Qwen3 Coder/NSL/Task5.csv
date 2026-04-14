@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,tempFile.getAbsolutePath(),loadLibraryFromResources,IndustrialSensorDriver,com.example.sensor,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NSL/Task5/src/main/java/com/example/sensor/IndustrialSensorDriver.java,IndustrialSensorDriver.java
+CS2,NotSecuringLibraries,"sensor-io-x64",loadNativeLibrary,IndustrialSensorDriver,com.example.sensor,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NSL/Task5/src/main/java/com/example/sensor/IndustrialSensorDriver.java,IndustrialSensorDriver.java

@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,HardwareConnection,Java_HardwareConnection_getDiagnosticReport,HardwareConnection,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/EB/Task4/HardwareConnection.java,HardwareConnection.java

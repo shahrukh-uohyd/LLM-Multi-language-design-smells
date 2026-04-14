@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,getFanSpeed,SystemProbe,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task5/SystemProbe.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,getCpuTemperature,SystemProbe,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task5/SystemProbe.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,getMotherboardTemperature,SystemProbe,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task5/SystemProbe.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,getBatteryVoltage,SystemProbe,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task5/SystemProbe.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,getGpuTemperature,SystemProbe,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EILC/Task5/SystemProbe.java

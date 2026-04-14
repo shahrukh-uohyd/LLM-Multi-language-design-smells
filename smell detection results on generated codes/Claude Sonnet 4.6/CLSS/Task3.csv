@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"com/example/operations/OperationHandler",resolveStaticMethodMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task3/NativeOperationBridge.cpp,NativeOperationBridge.cpp
+CS2,Shotgu,"(Ljava/lang/String;I)V",resolveInstanceMethodMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task3/NativeOperationBridge.cpp,NativeOperationBridge.cpp
+CS3,Shotgu,"com/example/operations/OperationHandler",resolveInstanceMethodMeta,,,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CLSS/Task3/NativeOperationBridge.cpp,NativeOperationBridge.cpp

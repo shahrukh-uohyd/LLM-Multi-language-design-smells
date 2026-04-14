@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"(Ljava/lang/String;)V",Java_com_example_NativeCore_runPluginBehavior,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/CLSS/Task5/plugin_runner_lib.cpp,plugin_runner_lib.cpp
+CS2,Shotgu,"com/example/PluginManager",Java_com_example_NativeCore_runPluginBehavior,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/CLSS/Task5/plugin_runner_lib.cpp,plugin_runner_lib.cpp
+CS3,Shotgu,"com/example/IPlugin",Java_com_example_NativeCore_runPluginBehavior,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/CLSS/Task5/plugin_runner_lib.cpp,plugin_runner_lib.cpp

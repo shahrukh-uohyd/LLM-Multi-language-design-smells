@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"getName",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c
+CS2,NotHandlingExceptions,"getDeclaredFields",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c
+CS3,NotHandlingExceptions,"java/lang/reflect/Method",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c
+CS4,NotHandlingExceptions,"java/lang/Class",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c
+CS5,NotHandlingExceptions,"getDeclaredMethods",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c
+CS6,NotHandlingExceptions,"java/lang/reflect/Field",Java_ObjectInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task3/ObjectInspector.c,ObjectInspector.c

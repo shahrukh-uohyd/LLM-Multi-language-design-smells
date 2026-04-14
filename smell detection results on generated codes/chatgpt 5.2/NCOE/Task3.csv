@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"I",Java_com_example_batch_UserBatchValidator_validateUser,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NCOE/Task3/user_validator.c,user_validator.c
+CS2,NotCachingObjectsElements,"Ljava/lang/String;",Java_com_example_batch_UserBatchValidator_validateUser,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NCOE/Task3/user_validator.c,user_validator.c

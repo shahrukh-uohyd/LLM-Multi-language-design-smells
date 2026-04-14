@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,SensitiveProcessor,Java_SensitiveProcessor_processSensitiveData,SensitiveProcessor,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/EB/Task3/SensitiveProcessor.java,SensitiveProcessor.java

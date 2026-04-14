@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,readData,DeviceController,com.app.device,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CRD/Task4/DeviceController.java,DeviceController.java
+CS2,crossLangDe,,computeFFT,SignalProcessorNative,com.app.signal,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/CRD/Task4/SignalProcessorNative.java,SignalProcessorNative.java

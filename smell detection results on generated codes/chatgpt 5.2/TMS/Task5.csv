@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,FilePermissions,com.example.linux.fs.nativeops,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task5/FilePermissions.java
+AP2,TooMuchScatteringDetectio,,,ExtendedAttributes,com.example.linux.fs.nativeops,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task5/ExtendedAttributes.java
+AP3,TooMuchScatteringDetectio,,,SymbolicLinks,com.example.linux.fs.nativeops,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task5/SymbolicLinks.java

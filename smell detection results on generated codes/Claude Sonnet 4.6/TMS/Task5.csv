@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,ExtendedAttributeReader,com.linux.native_fileops,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task5/ExtendedAttributeReader.java
+AP2,TooMuchScatteringDetectio,,,FilePermissionModifier,com.linux.native_fileops,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task5/FilePermissionModifier.java
+AP3,TooMuchScatteringDetectio,,,SymbolicLinkCreator,com.linux.native_fileops,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task5/SymbolicLinkCreator.java

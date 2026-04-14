@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"salary",Java_PropertyAccess_getSalaryFromNative,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task1/propertyaccess.c,propertyaccess.c
+CS2,NotHandlingExceptions,"name",Java_PropertyAccess_getNameFromNative,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task1/propertyaccess.c,propertyaccess.c
+CS3,NotHandlingExceptions,"age",Java_PropertyAccess_getAgeFromNative,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task1/propertyaccess.c,propertyaccess.c
+CS4,NotHandlingExceptions,"employed",Java_PropertyAccess_getEmployedFromNative,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NHE/Task1/propertyaccess.c,propertyaccess.c

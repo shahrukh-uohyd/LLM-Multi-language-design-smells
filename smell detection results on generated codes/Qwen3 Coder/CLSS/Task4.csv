@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"()V",controlJavaComponents,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp
+CS2,Shotgu,"com/app/controller/ComponentRegistry",controlJavaComponents,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp
+CS3,Shotgu,"(Ljava/lang/String;)V",controlJavaComponents,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp
+CS4,Shotgu,"(Ljava/lang/String;[Ljava/lang/String;)V",callJavaCallback,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp
+CS5,Shotgu,"()Ljava/lang/String;",Java_com_app_NativeController_querySystemStatus,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp
+CS6,Shotgu,"com/app/controller/ComponentRegistry",Java_com_app_NativeController_querySystemStatus,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task4/cpp/appcontroller.cpp,appcontroller.cpp

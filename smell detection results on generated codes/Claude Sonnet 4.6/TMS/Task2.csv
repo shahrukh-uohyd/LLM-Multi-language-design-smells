@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,NativeMemoryCleaner,com.hardware.native_utils,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task2/NativeMemoryCleaner.java
+AP2,TooMuchScatteringDetectio,,,FileChecksumCalculator,com.hardware.native_utils,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task2/FileChecksumCalculator.java
+AP3,TooMuchScatteringDetectio,,,HardwareIdProvider,com.hardware.native_utils,/home/shahrukh/smellDetection/Detection/LLM codes/Claude Sonnet 4.6/TMS/Task2/HardwareIdProvider.java

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"stockCount",Java_Product_updateLowStock,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NCOE/Task5/inventory_system.c,inventory_system.c
+CS2,NotCachingObjectsElements,"price",Java_Product_updateLowStock,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NCOE/Task5/inventory_system.c,inventory_system.c

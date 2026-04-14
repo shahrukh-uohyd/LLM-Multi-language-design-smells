@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"()V",,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS2,Shotgu,"()Ljava/lang/String;",getPluginInfo,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS3,Shotgu,"com/plugin/api/PluginManager",Java_com_plugin_NativePluginHost_listAvailablePlugins,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS4,Shotgu,"(Ljava/lang/String;)Ljava/lang/String;",Java_com_plugin_NativePluginHost_processPluginInput,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS5,Shotgu,"(Z)V",,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS6,Shotgu,"com/plugin/api/PluginManager",,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS7,Shotgu,"com/plugin/api/PluginManager",getPluginInfo,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS8,Shotgu,"()[Ljava/lang/Object;",Java_com_plugin_NativePluginHost_listAvailablePlugins,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS9,Shotgu,"([Ljava/lang/String;)V",,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS10,Shotgu,"()Z",getPluginInfo,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp
+CS11,Shotgu,"com/plugin/api/PluginManager",Java_com_plugin_NativePluginHost_processPluginInput,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/CLSS/Task5/cpp/pluginhost.cpp,pluginhost.cpp

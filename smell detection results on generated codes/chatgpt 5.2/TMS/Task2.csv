@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,MemoryCleaner,com.example.nativefeatures,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task2/MemoryCleaner.java
+AP2,TooMuchScatteringDetectio,,,HardwareId,com.example.nativefeatures,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task2/HardwareId.java
+AP3,TooMuchScatteringDetectio,,,FileChecksum,com.example.nativefeatures,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/TMS/Task2/FileChecksum.java

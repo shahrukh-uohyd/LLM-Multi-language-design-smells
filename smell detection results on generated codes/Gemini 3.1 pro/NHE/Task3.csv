@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"java/lang/Class",Java_JniInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/NHE/Task3/jniinspector.cpp,jniinspector.cpp
+CS2,NotHandlingExceptions,"getName",Java_JniInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/NHE/Task3/jniinspector.cpp,jniinspector.cpp
+CS3,NotHandlingExceptions,"getDeclaredFields",Java_JniInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/NHE/Task3/jniinspector.cpp,jniinspector.cpp
+CS4,NotHandlingExceptions,"java/lang/reflect/Field",Java_JniInspector_inspectObject,,,/home/shahrukh/smellDetection/Detection/LLM codes/Gemini 3.1 pro/NHE/Task3/jniinspector.cpp,jniinspector.cpp

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"Item",Java_Item_sumValues,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task5/ItemNative.cpp,ItemNative.cpp
+CS2,NotHandlingExceptions,"getValue",Java_Item_sumValues,,,/home/shahrukh/smellDetection/Detection/LLM codes/chatgpt/NHE/Task5/ItemNative.cpp,ItemNative.cpp

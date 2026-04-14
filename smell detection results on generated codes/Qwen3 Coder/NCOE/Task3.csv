@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"loginAttempts",Java_UserBatchValidator_validateUser,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NCOE/Task3/validation_engine.cpp,validation_engine.cpp
+CS2,NotCachingObjectsElements,"userId",Java_UserBatchValidator_validateUser,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NCOE/Task3/validation_engine.cpp,validation_engine.cpp
+CS3,NotCachingObjectsElements,"status",Java_UserBatchValidator_validateUser,,,/home/shahrukh/smellDetection/Detection/LLM codes/Qwen Coder/NCOE/Task3/validation_engine.cpp,validation_engine.cpp
