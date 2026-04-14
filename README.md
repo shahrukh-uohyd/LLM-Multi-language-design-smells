@@ -49,7 +49,8 @@ Each LLM generates code for:
 Each task contains:
 Java code
 Native (C/C++) code using JNI
-3. 📁 smell detection results on generated codes
+
+3. smell detection results on generated codes
 
 Contains results of automated smell detection applied to the generated code.
 
